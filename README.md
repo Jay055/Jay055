@@ -21,7 +21,7 @@ Hi, I'm Uche, a fullstack software engineer passionate about javascript technolo
 - 🌱  I'm currently learning more about React Native and Testing.
 
 
-### 🧐 Fun? 
+###  🧐 Fun? 
 - 🏀  Basketball 
 - 🏊  Swimming 
 - 🌇  Travelling
