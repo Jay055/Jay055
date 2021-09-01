@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi, I'm Uche, a fullstack software engineer passionate about javascript technologies. 
+Hi, I'm Uche, a software engineer passionate about javascript technologies. 
 
 
 
